@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.awt.Image"/>
+<fullyQualifiedTypeName name="src.co.encuentraloperdidobase.utilitarios.objeto.UtilObjeto"/>
+<fullyQualifiedTypeName name="src.co.encuentraloperdido.dominio.ObjetoDominio"/>
+<fullyQualifiedTypeName name="co.encuentraloperdidobase.utilitarios.cadenas.UtilTexto"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="co.encuentraloperdidobase.utilitarios.cadenas.enumeracion.ExpresionRegularEnum"/>
+</qualifiedTypeNameHistroy>
