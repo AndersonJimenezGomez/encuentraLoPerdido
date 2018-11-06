@@ -1,0 +1,7 @@
+package co.encuentraloperdidobase.utilitarios.excepcion;
+
+public final class AplicacionExcepcion extends RuntimeException {
+	
+	private Exception 
+
+}

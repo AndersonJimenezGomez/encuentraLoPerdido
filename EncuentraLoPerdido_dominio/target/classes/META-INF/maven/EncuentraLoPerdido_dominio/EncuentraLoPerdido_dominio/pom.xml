@@ -17,4 +17,10 @@
       </plugin>
     </plugins>
   </build>
+  <dependencies>
+  	<dependency>
+  		<groupId>EncuentraLoPerdidoBase_Utilitarios</groupId>
+  		<artifactId>EncuentraLoPerdidoBase_Utilitarios</artifactId>
+  	</dependency>
+  </dependencies>
 </project>

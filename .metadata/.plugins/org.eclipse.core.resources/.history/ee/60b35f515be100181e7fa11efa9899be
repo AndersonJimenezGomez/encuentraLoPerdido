@@ -2,8 +2,6 @@ package src.co.encuentraloperdido.dominio;
 
 import java.awt.Image;
 import java.sql.Date;
-import co.encuentraloperdidobase.utilitarios.objeto.UtilObjeto.obtenerUtilObjeto;
-
 
 public final class ObjetoDominio {
 	private int idObjeto;
@@ -63,17 +61,7 @@ public final class ObjetoDominio {
 	}
 	
 	private void asegurarIntegridadDescripcion() {
-		if (getDescripcion() == null) {
-			throw new RuntimeException("La descripcion no puede ser nula");
-		} else if (getDescripcion().trim().intern() == "") {
-			throw new RuntimeException("La descripcion no puede ser vacia");
-		} else if (getDescripcion().trim().length() > 300) {
 		
-			throw new RuntimeException("La descripcion del objeto no puede tener mas de 300 caracteres");
-		} else if (!ExpresionRegularEnum.SOLO_TEXTO.cumplePatron(getDescripcion())) {
-			String mensaje = "El nombre del cliente s�lo puede contener letras y espacios";
-			throw new RuntimeException("La descripcion del objeto no puede tener mas de 300 caracteres");
-		}
 	}
 	
 	

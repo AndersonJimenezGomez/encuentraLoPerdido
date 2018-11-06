@@ -1,0 +1,5 @@
+package co.encuentraloperdidobase.utilitarios.excepcion;
+
+public class AplicacionExcepcion {
+
+}
