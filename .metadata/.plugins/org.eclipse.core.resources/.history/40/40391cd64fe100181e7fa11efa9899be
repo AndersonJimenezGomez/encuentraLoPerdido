@@ -1,0 +1,28 @@
+package co.encuentraloperdido.dominio;
+
+import java.awt.Image;
+import java.sql.Date;
+
+public final class ObjetoDominio {
+	private int idObjeto;
+	private int idLugar;
+	private String descripcion;
+	private Date fecha;
+	private Image foto;
+	
+	public ObjetoDominio(int idObjeto, int idLugar, String descripcion, Date fecha, Image foto) {
+		super();
+		this.idObjeto = idObjeto;
+		this.idLugar = idLugar;
+		this.descripcion = descripcion;
+		this.fecha = fecha;
+		this.foto = foto;
+	}
+	
+	
+	
+	
+	
+	
+
+}

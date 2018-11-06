@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy source folder &apos;java&apos; to &apos;RESTFull&apos;&#x0A;- Original project: &apos;EncuentraloPerdidoAPI_1&apos;&#x0A;- Destination element: &apos;RESTFull&apos;&#x0A;- Original element: &apos;EncuentraloPerdidoAPI_1/src/test/java&apos;" description="Copy source folder" element1="/src\/test\/java" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1541454001698" target="/RESTFull" version="1.0"/>
+</session>

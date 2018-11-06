@@ -1,0 +1,7 @@
+package src.co.encuentraloperdido.dominio;
+
+public final class PublicacionDominio {
+	private int idPublicacion;
+	private ObjetoDominio objeto;
+	private String tipoPublicacion;
+}

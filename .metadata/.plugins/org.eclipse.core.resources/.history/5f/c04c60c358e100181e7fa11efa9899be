@@ -1,0 +1,5 @@
+package co.co.encuentraloperdidobase.utilitarios.cadenas.enumeracion;
+
+public enum ExpresionRegularEnum {
+
+}
