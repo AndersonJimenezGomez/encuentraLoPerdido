@@ -3,7 +3,8 @@ package src.co.encuentraloperdido.dominio;
 import java.awt.Image;
 import java.util.Calendar;
 import java.util.Date;
-import co.encuentraloperdidobase.utilitarios.objeto.UtilObjeto.obtenerUtilObjeto;
+import co.encuentraloperdidobase.utilitarios.cadenas.enumeracion.ExpresionRegularEnum;
+import static co.encuentraloperdidobase.utilitarios.objeto.UtilObjeto.obtenerUtilObjeto;
 
 
 public final class ObjetoDominio {
