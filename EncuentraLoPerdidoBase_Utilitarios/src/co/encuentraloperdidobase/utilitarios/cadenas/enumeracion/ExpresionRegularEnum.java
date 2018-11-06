@@ -3,8 +3,8 @@ import static co.encuentraloperdidobase.utilitarios.cadenas.UtilTexto.obtenerUti
 
 public enum ExpresionRegularEnum {
 	SOLO_TEXTO("^[a-zA-Z]+$"), 
-	SOLO_NUMEROS("^[0-9]+$"),
-	CORREO("^[a-zA-Z0-9.,+-_@]+$");
+	SOLO_FECHA("^[0-9-/]+$");
+	
 
 
 	private String expresion;

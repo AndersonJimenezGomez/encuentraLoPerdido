@@ -78,10 +78,11 @@ public final class ObjetoDominio {
 	}
 	
 	private void asegurarIntegridadFecha() {
-		if (Calendar.getInstance().before(getFecha())) {
+		if (!Calendar.getInstance().before(getFecha())) {
 			throw new RuntimeException("La fecha de creacion de la cuenta debe ser antes a la fecha actual.");
-		}
+		}else if(!ExpresionRegularEnum.SOLO_FECHA.cumplePatron(getFecha()));
 	}
+	
 	
 	
 	
