@@ -5246,3 +5246,11 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact co.com.supers
 2018-11-07 16:30:52,053 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/main/resources
 2018-11-07 16:30:52,054 [Worker-85: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-11-07 16:30:52,054 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/test/resources
+2018-11-07 16:35:51,578 [Worker-94: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 16:35:51,579 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/main/resources
+2018-11-07 16:35:51,581 [Worker-94: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 16:35:51,581 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/test/resources
+2018-11-07 16:35:54,736 [Worker-91: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 16:35:54,737 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/main/resources
+2018-11-07 16:35:54,738 [Worker-91: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 16:35:54,739 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/test/resources

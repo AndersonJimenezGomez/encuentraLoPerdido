@@ -12,11 +12,6 @@ public final class PublicacionDominio {
 		
 	}
 	
-	public PublicacionDominio crear (PublicacionDominio publicacion) {
-		publicacion.asegurarIntegridadTipoPublicacion();
-		return publicacion;
-	}
-	
 	public PublicacionDominio(int idPublicacion, ObjetoDominio objeto, String tipoPublicacion) {
 		super();
 		setIdPublicacion(idPublicacion);
@@ -24,6 +19,11 @@ public final class PublicacionDominio {
 		setTipoPublicacion(tipoPublicacion);
 	}
 	
+
+	public PublicacionDominio crear (PublicacionDominio publicacion) {
+		publicacion.asegurarIntegridadTipoPublicacion();
+		return publicacion;
+	}
 
 	public final void setIdPublicacion(final int idPublicacion) {
 		this.idPublicacion = idPublicacion;

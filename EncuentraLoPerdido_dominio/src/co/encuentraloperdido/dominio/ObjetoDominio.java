@@ -30,8 +30,10 @@ public final class ObjetoDominio {
 		setFoto(foto);
 	}
 	
-	public void crear() {
-		this.validar();
+	public ObjetoDominio crear(ObjetoDominio objeto) {
+		objeto.validar();
+		return objeto;
+		
 	}
 
 	public int getIdObjeto() {
