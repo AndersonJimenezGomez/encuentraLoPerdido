@@ -5086,3 +5086,11 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact co.com.supers
 2018-11-07 12:24:41,935 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
 2018-11-07 12:24:41,936 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-11-07 12:24:41,936 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 12:43:35,512 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:43:35,513 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 12:43:35,514 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:43:35,514 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 12:43:59,023 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:43:59,023 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 12:43:59,024 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:43:59,024 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources

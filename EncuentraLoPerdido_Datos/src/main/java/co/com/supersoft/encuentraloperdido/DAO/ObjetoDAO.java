@@ -1,5 +1,6 @@
 package co.com.supersoft.encuentraloperdido.DAO;
 
+import java.awt.Image;
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -92,7 +93,7 @@ public class ObjetoDAO implements IObjetoDAO {
 				ObjetoDominio c = new ObjetoDominio();
 				c.setIdObjeto(rs.getInt(1));
 				c.setDescripcion(rs.getString(2));
-				// c.setFoto(rs.getObject(3));
+				c.setFoto((Image) rs.getBlob(3));
 
 				c.setFecha(rs.getDate(4));
 				c.setLugar(rs.getString(5));

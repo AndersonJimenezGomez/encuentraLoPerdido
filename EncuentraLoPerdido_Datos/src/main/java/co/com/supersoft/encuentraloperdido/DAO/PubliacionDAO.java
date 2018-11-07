@@ -9,6 +9,7 @@ import java.util.List;
 
 import co.com.supersoft.encuentraloperdido.conexion.Conexion;
 import co.com.supersoft.encuentraloperdido.datos.interfaces.IPublicacionDAO;
+import co.encuentraloperdido.dominio.ObjetoDominio;
 import co.encuentraloperdido.dominio.PublicacionDominio;
 
 public class PubliacionDAO implements IPublicacionDAO {
@@ -52,7 +53,7 @@ public class PubliacionDAO implements IPublicacionDAO {
 				PublicacionDominio c = new PublicacionDominio();
 				c.setIdPublicacion(rs.getInt(1));
 				c.setTipoPublicacion(rs.getString(2));
-				//c.setObjeto(rs.getObject(3));
+				c.setObjeto((ObjetoDominio) rs.getObject(3));
 				publicaciones.add(c);
 			}
 			stm.close();
