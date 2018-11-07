@@ -1,6 +1,5 @@
 INDEX VERSION 1.131+/home/anderson/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
 4262807746.index
-813341167.index
 1089237680.index
 2687888683.index
 1344431813.index
@@ -8,28 +7,21 @@ INDEX VERSION 1.131+/home/anderson/eclipse-workspace/.metadata/.plugins/org.ecli
 914493542.index
 4231243191.index
 1447290507.index
-502732891.index
 3070535884.index
 575405313.index
 2158242450.index
-925982370.index
 1165109965.index
 41987147.index
 3080766757.index
 3367654266.index
 3830225703.index
 3180822853.index
-3512161136.index
 2891684922.index
 3218925173.index
 2020122864.index
 2481320422.index
 2206487571.index
-3530540584.index
-3883508318.index
 4214823455.index
-821608291.index
-5990989.index
 2066227150.index
 1834583001.index
 4065020062.index
@@ -43,10 +35,8 @@ INDEX VERSION 1.131+/home/anderson/eclipse-workspace/.metadata/.plugins/org.ecli
 296809607.index
 1518008895.index
 3166011356.index
-3066711521.index
 410494814.index
 2984913629.index
-3539432263.index
 4263624159.index
 1001238948.index
 2413822751.index
@@ -70,14 +60,12 @@ INDEX VERSION 1.131+/home/anderson/eclipse-workspace/.metadata/.plugins/org.ecli
 4158598091.index
 3742629463.index
 1190703115.index
-2744878784.index
 321001765.index
 4190543833.index
 1991106773.index
 663435576.index
 4017676959.index
 2115653523.index
-2253745042.index
 1692777231.index
 1880872821.index
 903443947.index
@@ -85,7 +73,6 @@ INDEX VERSION 1.131+/home/anderson/eclipse-workspace/.metadata/.plugins/org.ecli
 154189217.index
 766398609.index
 3209367804.index
-1089239932.index
 625537550.index
 233923703.index
 252324264.index
@@ -93,11 +80,11 @@ INDEX VERSION 1.131+/home/anderson/eclipse-workspace/.metadata/.plugins/org.ecli
 3773902305.index
 3940043785.index
 4159917570.index
-2359322674.index
 3204524703.index
 3293759322.index
 2917892279.index
 949557430.index
+2251814966.index
 1215882948.index
 3005248250.index
 2230852799.index
@@ -125,7 +112,6 @@ INDEX VERSION 1.131+/home/anderson/eclipse-workspace/.metadata/.plugins/org.ecli
 249263448.index
 1879211810.index
 2881824106.index
-3485262699.index
 1329331282.index
 2222870764.index
 169248300.index
@@ -145,5 +131,3 @@ INDEX VERSION 1.131+/home/anderson/eclipse-workspace/.metadata/.plugins/org.ecli
 3351363913.index
 1076382035.index
 1521055672.index
-3874207041.index
-1628687906.index

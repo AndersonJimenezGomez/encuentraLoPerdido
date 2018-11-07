@@ -14,9 +14,6 @@ public class ControladorPublicacion {
 	        dao.crear(publicacion);
 	    }
 
-
-
-	  
 	    public void consultar(){
 	        
 	        IPublicacionDAO dao=  new PubliacionDAO();

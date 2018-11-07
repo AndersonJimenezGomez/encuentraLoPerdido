@@ -11,7 +11,7 @@ public final class ObjetoDominio {
 
 
 	private int idObjeto;
-	private String Lugar;
+	private String lugar;
 	private String descripcion;
 	private Date fecha;
 	private Image foto;
@@ -29,13 +29,17 @@ public final class ObjetoDominio {
 		setFoto(foto);
 		setFoto(foto);
 	}
+	
+	public void crear() {
+		this.validar();
+	}
 
 	public int getIdObjeto() {
 		return idObjeto;
 	}
 
 	public String getLugar() {
-		return Lugar;
+		return lugar;
 	}
 
 	public String getDescripcion() {
@@ -55,7 +59,7 @@ public final class ObjetoDominio {
 	}
 
 	public void setLugar(String Lugar) {
-		this.Lugar = Lugar;
+		this.lugar = Lugar;
 	}
 
 	public void setDescripcion(String descripcion) {
@@ -69,6 +73,13 @@ public final class ObjetoDominio {
 	public void setFoto(Image foto) {
 		this.foto = foto;
 	}
+	
+	private void validar() {
+		this.asegurarIntegridadDescripcion();
+		this.asegurarIntegridadFecha();
+		this.asegurarIntegridadLugar();
+	}
+	
 	
 	private void asegurarIntegridadDescripcion() {
 		if (getDescripcion() == null) {
