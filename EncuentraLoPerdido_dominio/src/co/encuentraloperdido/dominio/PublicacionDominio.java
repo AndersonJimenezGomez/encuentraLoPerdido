@@ -17,15 +17,15 @@ public final class PublicacionDominio {
 		setTipoPublicacion(tipoPublicacion);
 	}
 
-	private final void setIdPublicacion(final int idPublicacion) {
+	public final void setIdPublicacion(final int idPublicacion) {
 		this.idPublicacion = idPublicacion;
 	}
 
-	private final void setObjeto(final ObjetoDominio objeto) {
+	public final void setObjeto(final ObjetoDominio objeto) {
 		this.objeto = objeto;
 	}
 
-	private final void setTipoPublicacion(final String tipoPublicacion) {
+	public final void setTipoPublicacion(final String tipoPublicacion) {
 		this.tipoPublicacion = tipoPublicacion;
 	}
 

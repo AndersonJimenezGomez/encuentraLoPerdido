@@ -42,7 +42,7 @@ public class ObjetoDAO implements IObjetoDAO {
 		boolean actualizar = false;
 
 		String sql = "UPDATE objeto descripcion='" + objetoDominio.getDescripcion() + "', foto='"
-				+ objetoDominio.getFoto() + "', foto='" + objetoDominio.getFoto()+ "', fecha'"+objetoDominio.getFecha()+ "', lugar='"+ objetoDominio.getIdLugar()+ "'" + " WHERE ID=" + objetoDominio.getIdObjeto();
+				+ objetoDominio.getFoto() + "', foto='" + objetoDominio.getFoto()+ "', fecha'"+objetoDominio.getFecha()+ "', lugar='"+ objetoDominio.getLugar()+ "'" + " WHERE ID=" + objetoDominio.getIdObjeto();
 		try {
 			connect = Conexion.conectar();
 			stm = connect.createStatement();
@@ -75,12 +75,12 @@ public class ObjetoDAO implements IObjetoDAO {
 
 	}
 
-	public List<ObjetoDominio> consultar(ObjetoDominio objetoDominio) {
+	public List<ObjetoDominio> consultar() {
 		Connection co = null;
 		Statement stm = null;
 		ResultSet rs = null;
 
-		String sql = "SELECT * FROM Detalle_factura ORDER BY idDetalleFactura";
+		String sql = "SELECT * FROM objeto ORDER BY idobjeto";
 
 		List<ObjetoDominio> listaObjetos = new ArrayList<ObjetoDominio>();
 

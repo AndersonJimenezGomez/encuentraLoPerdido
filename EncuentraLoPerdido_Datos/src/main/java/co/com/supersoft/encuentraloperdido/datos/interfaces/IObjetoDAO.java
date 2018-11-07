@@ -12,5 +12,5 @@ public interface IObjetoDAO {
 
 	void eliminar(ObjetoDominio objetoDominio);
 
-	List<ObjetoDominio> consultar(ObjetoDominio objetoDominio);
+	List<ObjetoDominio> consultar();
 }

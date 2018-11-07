@@ -11,7 +11,7 @@ public final class ObjetoDominio {
 
 
 	private int idObjeto;
-	private String idLugar;
+	private String Lugar;
 	private String descripcion;
 	private Date fecha;
 	private Image foto;
@@ -34,8 +34,8 @@ public final class ObjetoDominio {
 		return idObjeto;
 	}
 
-	public String getIdLugar() {
-		return idLugar;
+	public String getLugar() {
+		return Lugar;
 	}
 
 	public String getDescripcion() {
@@ -54,8 +54,8 @@ public final class ObjetoDominio {
 		this.idObjeto = idObjeto;
 	}
 
-	public void setLugar(String idLugar) {
-		this.idLugar = idLugar;
+	public void setLugar(String Lugar) {
+		this.Lugar = Lugar;
 	}
 
 	public void setDescripcion(String descripcion) {
@@ -80,6 +80,19 @@ public final class ObjetoDominio {
 			throw new RuntimeException("La descripcion del objeto no puede tener mas de 300 caracteres");
 		} else if (!ExpresionRegularEnum.SOLO_TEXTO.cumplePatron(getDescripcion())) {
 			String mensaje = "El nombre del cliente solo puede contener letras y espacios";
+			throw new RuntimeException("La descripcion del objeto no puede tener mas de 300 caracteres");
+		}
+	}
+	
+	private void asegurarIntegridadLugar() {
+		if (getLugar() == null) {
+			throw new RuntimeException("El lugar no puede ser nula");
+		} else if (getLugar().trim().intern() == "") {
+			throw new RuntimeException("Ellugar no puede ser vacia");
+		} else if (getDescripcion().trim().length() > 300) {
+		
+			throw new RuntimeException("El lugar no puede tener mas de 300 caracteres");
+		} else if (!ExpresionRegularEnum.SOLO_TEXTO.cumplePatron(getLugar())) {
 			throw new RuntimeException("La descripcion del objeto no puede tener mas de 300 caracteres");
 		}
 	}

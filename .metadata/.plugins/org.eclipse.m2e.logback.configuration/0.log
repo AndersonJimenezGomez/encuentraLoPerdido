@@ -4868,3 +4868,221 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact co.com.supers
 2018-11-06 12:05:55,022 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-11-06 12:05:55,027 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-11-06 12:05:55,027 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraloPerdidoAPI_1/src/test/resources
+2018-11-06 14:06:38,797 [Worker-51: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-06 14:06:38,798 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/main/resources
+2018-11-06 14:06:38,800 [Worker-51: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-06 14:06:38,800 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/test/resources
+2018-11-06 14:08:04,400 [Worker-53: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-06 14:08:04,400 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/main/resources
+2018-11-06 14:08:04,402 [Worker-53: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-06 14:08:04,403 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/test/resources
+2018-11-06 14:08:04,437 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 14:08:04,437 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-06 14:08:04,439 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 14:08:04,439 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-06 14:09:11,583 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-06 14:09:11,584 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/main/resources
+2018-11-06 14:09:11,585 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-06 14:09:11,587 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/test/resources
+2018-11-06 14:10:30,273 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 14:10:30,273 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-06 14:10:30,274 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 14:10:30,274 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-06 17:07:23,387 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-06 17:07:28,936 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-06 17:07:28,997 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdidoBase_Utilitarios/src/main/resources
+2018-11-06 17:07:29,047 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-06 17:07:29,048 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdidoBase_Utilitarios/src/test/resources
+2018-11-06 17:07:29,645 [Worker-3: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdidoBase_Utilitarios: co.com.supersoftbase:SupersoftBase_Utilitario:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdidoBase_Utilitarios/target/classes
+2018-11-06 17:07:29,655 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-06 17:07:29,656 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/main/resources
+2018-11-06 17:07:29,672 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-06 17:07:29,672 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/test/resources
+2018-11-06 17:07:29,814 [Worker-3: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdidoBase_Utilitarios: co.com.supersoftbase:SupersoftBase_Utilitario:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdidoBase_Utilitarios/target/classes
+2018-11-06 17:07:29,814 [Worker-3: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdido_dominio: co.com.supersoft.encuentraloperdido:EncuentraLoPerdido_Dominio:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdido_dominio/target/classes
+2018-11-06 17:07:29,844 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 17:07:29,844 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-06 17:07:29,846 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 17:07:29,846 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-06 17:07:30,885 [Worker-3: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdidoBase_Utilitarios: co.com.supersoftbase:SupersoftBase_Utilitario:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdidoBase_Utilitarios/target/classes
+2018-11-06 17:07:30,886 [Worker-3: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdido_dominio: co.com.supersoft.encuentraloperdido:EncuentraLoPerdido_Dominio:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdido_dominio/target/classes
+2018-11-06 17:07:31,405 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 17:07:31,409 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-06 17:07:31,431 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-06 17:07:31,433 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 17:07:31,433 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraloPerdidoAPI_1/src/test/resources
+2018-11-06 23:58:58,377 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-06 23:59:05,136 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-06 23:59:05,148 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdidoBase_Utilitarios/src/main/resources
+2018-11-06 23:59:05,152 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-06 23:59:05,152 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdidoBase_Utilitarios/src/test/resources
+2018-11-06 23:59:06,158 [Worker-0: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdidoBase_Utilitarios: co.com.supersoftbase:SupersoftBase_Utilitario:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdidoBase_Utilitarios/target/classes
+2018-11-06 23:59:06,172 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-06 23:59:06,173 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/main/resources
+2018-11-06 23:59:06,179 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-06 23:59:06,180 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/test/resources
+2018-11-06 23:59:06,465 [Worker-0: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdidoBase_Utilitarios: co.com.supersoftbase:SupersoftBase_Utilitario:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdidoBase_Utilitarios/target/classes
+2018-11-06 23:59:06,466 [Worker-0: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdido_dominio: co.com.supersoft.encuentraloperdido:EncuentraLoPerdido_Dominio:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdido_dominio/target/classes
+2018-11-06 23:59:06,525 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 23:59:06,525 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-06 23:59:06,528 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 23:59:06,528 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-06 23:59:09,047 [Worker-0: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdidoBase_Utilitarios: co.com.supersoftbase:SupersoftBase_Utilitario:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdidoBase_Utilitarios/target/classes
+2018-11-06 23:59:09,048 [Worker-0: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdido_dominio: co.com.supersoft.encuentraloperdido:EncuentraLoPerdido_Dominio:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdido_dominio/target/classes
+2018-11-06 23:59:09,520 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 23:59:09,530 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-06 23:59:09,582 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-06 23:59:09,591 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 23:59:09,593 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraloPerdidoAPI_1/src/test/resources
+2018-11-06 23:59:11,478 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 23:59:11,478 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-06 23:59:11,479 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-06 23:59:11,493 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 23:59:11,493 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/RESTFull/src/test/resources
+2018-11-07 00:14:45,686 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-07 00:14:51,598 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 00:14:51,614 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdidoBase_Utilitarios/src/main/resources
+2018-11-07 00:14:51,622 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 00:14:51,622 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdidoBase_Utilitarios/src/test/resources
+2018-11-07 00:14:52,363 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdidoBase_Utilitarios: co.com.supersoftbase:SupersoftBase_Utilitario:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdidoBase_Utilitarios/target/classes
+2018-11-07 00:14:52,381 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 00:14:52,385 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/main/resources
+2018-11-07 00:14:52,387 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 00:14:52,387 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/test/resources
+2018-11-07 00:14:52,749 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdidoBase_Utilitarios: co.com.supersoftbase:SupersoftBase_Utilitario:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdidoBase_Utilitarios/target/classes
+2018-11-07 00:14:52,750 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdido_dominio: co.com.supersoft.encuentraloperdido:EncuentraLoPerdido_Dominio:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdido_dominio/target/classes
+2018-11-07 00:14:52,786 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 00:14:52,787 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 00:14:52,788 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 00:14:52,789 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 00:14:54,937 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdidoBase_Utilitarios: co.com.supersoftbase:SupersoftBase_Utilitario:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdidoBase_Utilitarios/target/classes
+2018-11-07 00:14:54,938 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdido_dominio: co.com.supersoft.encuentraloperdido:EncuentraLoPerdido_Dominio:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdido_dominio/target/classes
+2018-11-07 00:14:55,466 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 00:14:55,474 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-07 00:14:55,534 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-07 00:14:55,551 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 00:14:55,552 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraloPerdidoAPI_1/src/test/resources
+2018-11-07 11:10:40,943 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-07 11:10:45,883 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 11:10:45,898 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdidoBase_Utilitarios/src/main/resources
+2018-11-07 11:10:45,900 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 11:10:45,901 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdidoBase_Utilitarios/src/test/resources
+2018-11-07 11:10:46,561 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdidoBase_Utilitarios: co.com.supersoftbase:SupersoftBase_Utilitario:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdidoBase_Utilitarios/target/classes
+2018-11-07 11:10:46,567 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 11:10:46,568 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/main/resources
+2018-11-07 11:10:46,570 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 11:10:46,571 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/test/resources
+2018-11-07 11:10:46,862 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdidoBase_Utilitarios: co.com.supersoftbase:SupersoftBase_Utilitario:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdidoBase_Utilitarios/target/classes
+2018-11-07 11:10:46,863 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdido_dominio: co.com.supersoft.encuentraloperdido:EncuentraLoPerdido_Dominio:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdido_dominio/target/classes
+2018-11-07 11:10:46,895 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:10:46,896 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:10:46,897 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:10:46,897 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 11:10:48,646 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdidoBase_Utilitarios: co.com.supersoftbase:SupersoftBase_Utilitario:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdidoBase_Utilitarios/target/classes
+2018-11-07 11:10:48,646 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdido_dominio: co.com.supersoft.encuentraloperdido:EncuentraLoPerdido_Dominio:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdido_dominio/target/classes
+2018-11-07 11:10:49,117 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:10:49,127 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-07 11:10:49,153 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-07 11:10:49,159 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:10:49,159 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraloPerdidoAPI_1/src/test/resources
+2018-11-07 11:42:51,691 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:42:51,693 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:42:51,699 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:42:51,699 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 11:43:14,751 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:43:14,751 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:43:14,753 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:43:14,753 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 11:44:56,818 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:44:56,818 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:44:56,832 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:44:56,832 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 11:47:43,191 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:47:43,191 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:47:43,193 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:47:43,193 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 11:49:21,327 [Worker-33: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.supersoft.encuentraloperdido:EncuentraLoPerdido_Datos:0.0.1-SNAPSHOT @ /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/pom.xml.
+2018-11-07 11:49:21,338 [Worker-33: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdidoBase_Utilitarios: co.com.supersoftbase:SupersoftBase_Utilitario:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdidoBase_Utilitarios/target/classes
+2018-11-07 11:49:21,338 [Worker-33: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdido_dominio: co.com.supersoft.encuentraloperdido:EncuentraLoPerdido_Dominio:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdido_dominio/target/classes
+2018-11-07 11:49:21,496 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:49:21,496 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:49:21,497 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:49:21,498 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 11:49:34,460 [Worker-29: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdidoBase_Utilitarios: co.com.supersoftbase:SupersoftBase_Utilitario:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdidoBase_Utilitarios/target/classes
+2018-11-07 11:49:34,461 [Worker-29: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EncuentraLoPerdido_dominio: co.com.supersoft.encuentraloperdido:EncuentraLoPerdido_Dominio:0.0.1-SNAPSHOT with classifier  to /EncuentraLoPerdido_dominio/target/classes
+2018-11-07 11:49:34,465 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:49:34,466 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:49:34,467 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:49:34,467 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 11:52:27,164 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:52:27,165 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:52:27,166 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:52:27,166 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 11:55:43,590 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:55:43,590 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:55:43,594 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:55:43,594 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 11:55:46,569 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:55:46,569 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:55:46,571 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:55:46,571 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 11:56:56,476 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:56:56,476 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:56:56,477 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:56:56,478 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 11:57:09,355 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:57:09,355 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:57:09,356 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:57:09,356 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 11:58:24,803 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:58:24,803 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:58:24,804 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:58:24,804 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 11:59:19,850 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:59:19,850 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:59:19,852 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:59:19,852 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 11:59:58,823 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:59:58,823 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 11:59:58,824 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 11:59:58,824 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 12:06:14,687 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:06:14,687 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 12:06:14,688 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:06:14,689 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 12:11:15,807 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 12:11:15,808 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/main/resources
+2018-11-07 12:11:15,810 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 12:11:15,811 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_dominio/src/test/resources
+2018-11-07 12:15:45,075 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:15:45,075 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 12:15:45,078 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:15:45,078 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 12:17:06,312 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:17:06,313 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 12:17:06,314 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:17:06,314 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 12:18:57,519 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:18:57,520 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 12:18:57,524 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:18:57,524 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 12:19:08,101 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:19:08,101 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 12:19:08,104 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:19:08,104 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 12:20:01,183 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:20:01,183 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 12:20:01,184 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:20:01,184 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 12:21:07,262 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:21:07,262 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 12:21:07,265 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:21:07,266 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 12:22:14,917 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:22:14,917 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 12:22:14,918 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:22:14,918 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources
+2018-11-07 12:24:41,935 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:24:41,935 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/main/resources
+2018-11-07 12:24:41,936 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-07 12:24:41,936 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anderson/eclipse-workspace/EncuentraLoPerdido_Datos/src/test/resources

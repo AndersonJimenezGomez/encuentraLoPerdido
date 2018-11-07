@@ -6,12 +6,10 @@ import co.encuentraloperdido.dominio.PublicacionDominio;
 
 
 public interface IPublicacionDAO {
-	void crear(PublicacionDominio publicacionDominio);
+	void crear(PublicacionDominio publicacion);
 
-	void actualizar(PublicacionDominio publicacionDominio);
 
-	void eliminar(PublicacionDominio publicacionDominio);
 
-	List<PublicacionDominio> consultar(PublicacionDominio publicacionDominio);
+	List<PublicacionDominio> consultar();
 
 }
