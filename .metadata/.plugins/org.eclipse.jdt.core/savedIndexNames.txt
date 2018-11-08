@@ -80,7 +80,6 @@ INDEX VERSION 1.131+/home/anderson/eclipse-workspace/.metadata/.plugins/org.ecli
 3773902305.index
 3940043785.index
 4159917570.index
-3204524703.index
 3293759322.index
 2917892279.index
 949557430.index

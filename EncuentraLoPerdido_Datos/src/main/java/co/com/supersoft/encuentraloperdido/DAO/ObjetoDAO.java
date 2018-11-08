@@ -20,8 +20,8 @@ public class ObjetoDAO implements IObjetoDAO {
 		Statement stm = null;
 		Connection con = null;
 
-		String sql = "INSERT INTO objeto values (NULL,'" + "','" + objetoDominio.getDescripcion() + "','"
-				+ objetoDominio.getFoto() + "','" + objetoDominio.getFecha() + "','" + objetoDominio.getFecha() + "')";
+		String sql = "INSERT INTO objeto values (null," + ",'" + objetoDominio.getDescripcion() + "',"
+				+ null + ",'2018-10-12','" + objetoDominio.getFecha() + "')";
 
 		try {
 			con = Conexion.conectar();
